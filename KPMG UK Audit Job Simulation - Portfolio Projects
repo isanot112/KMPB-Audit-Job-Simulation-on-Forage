@@ -1,0 +1,30 @@
+# KPMG UK Audit Job Simulation - Portfolio Projects
+
+## 📋 Overview
+This repository showcases my completed practical work for the **KPMG UK Audit Job Simulation** on Forage. The projects demonstrate core competencies in **financial auditing, audit materiality, risk assessment, analytical review procedures, and substantive testing** using professional Excel templates.
+
+---
+
+## 📂 Projects Included
+
+### 1. Trial Balance & Materiality Assessment (Globo Gym)
+* **File:** `Trial_Balance_Globo_Gym_Materiality_Template(solution).xlsx`
+* **Description:** Evaluated general ledger account balances against an established materiality threshold (£117,000). 
+* **Key Highlights:** 
+  * Applied quantitative checks to determine material accounts (Yes/No).
+  * Evaluated qualitative risk factors to flag **High-Risk Accounts** (such as Property, Plant & Equipment) that require heightened audit planning and scrutiny regardless of balance size.
+
+### 2. Analytical Revenue Testing (UK Gym Chain)
+* **File:** `UK_Gym_Revenue_Data(solution).xlsx`
+* **Description:** Conducted analytical procedures across multiple gym locations (Glasgow, Leeds, and Bristol) to test revenue reasonableness.
+* **Key Highlights:**
+  * Aggregated monthly membership data (Standard Members, Deluxe Members, and Guest Passes) using Excel formulas (`AVERAGE`, `SUM`).
+  * Implemented the **5% variance threshold rule** to compare expected revenue models against recorded general ledger revenue.
+  * Identified anomalies (e.g., Glasgow branch variance >5% requiring further substantive work vs. Leeds branch passing within the 2.4% tolerance limit).
+  * Built a comprehensive **Summary Tab** compiling branch-level conclusions.
+
+---
+
+## 🚀 Skills & Tools Demonstrated
+* **Tools:** Microsoft Excel (Advanced formulas, financial modeling, dynamic variance calculations, data aggregation).
+* **Core Concepts:** Financial Auditing, Materiality Benchmarking, Risk Assessment, Analytical Procedures, Substantive Testing, Audit Assertions (Occurrence & Completeness).
